@@ -102,7 +102,7 @@ streamlit run app.py
 | B        | 75000     | 150  | 80           |
 
    
-##🔗 Screenshots / Demo 
+🔗 Screenshots / Demo 
 <img width="1897" height="762" alt="image" src="https://github.com/user-attachments/assets/e929abc3-ae5b-462a-a3b1-fce3d75d7397" />
 <img width="1904" height="802" alt="image" src="https://github.com/user-attachments/assets/eefc2215-d350-47c5-8d29-f2938cf92ada" />
 <img width="1087" height="820" alt="image" src="https://github.com/user-attachments/assets/bcc27084-5510-41e3-8708-b29778e5c725" />
