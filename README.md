@@ -69,20 +69,31 @@ app.py # Main Streamlit application
 ```bash
 git clone https://github.com/YOUR_USERNAME/district_data_viewer.git
 cd district_data_viewer
-Create a virtual environment (Python 3.12):
-
+```
+2. Create a virtual environment (Python 3.12):
+```bash
 py -3.12 -m venv .venv
 source .venv/Scripts/activate  # On Git Bash / Linux / Mac
-Install dependencies:
 
+```
+3. Install dependencies:
+  ```bash
 pip install -r requirements.txt
 
-
-Run the app:
-
+```
+4. Run the app:
+```bash
 streamlit run app.py
+```
+5. Open the browser when prompted to explore your dashboard.
+   
+**🔗 Screenshots / Demo **
+<img width="1897" height="762" alt="image" src="https://github.com/user-attachments/assets/e929abc3-ae5b-462a-a3b1-fce3d75d7397" />
+<img width="1904" height="802" alt="image" src="https://github.com/user-attachments/assets/eefc2215-d350-47c5-8d29-f2938cf92ada" />
 
 
-Open the browser when prompted to explore your dashboard.
+   
 
-🔗 Screenshots / Demo
+
+
+
