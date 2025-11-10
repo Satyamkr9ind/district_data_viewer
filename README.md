@@ -45,10 +45,11 @@ The **District Data Viewer** helps non-technical users quickly analyze CSV datas
 ---
 
 ## 📁 Project Folder Structure
-app.py # Main Streamlit application
-│-- requirements.txt # Python dependencies
-│-- README.md # Project description and instructions
-│-- .gitignore # Files/folders to ignore on GitHub
+district_data_viewer/
+│-- app.py                  # Main Streamlit application
+│-- requirements.txt        # Python dependencies
+│-- README.md               # Project description
+│-- .gitignore              # Files/folders to ignore
 
 
 **Explanation:**
@@ -56,9 +57,6 @@ app.py # Main Streamlit application
 - `app.py` → main app file with Streamlit dashboard  
 - `requirements.txt` → all required Python packages (`streamlit`, `pandas`, `matplotlib`)  
 - `.gitignore` → prevents unnecessary files (virtual environment, cache, OS files) from uploading  
-- `data/` → optional folder for sample CSVs  
-- `screenshots/` → optional images/GIFs of the dashboard for visual demonstration  
-- `assets/` → optional CSS, images, or icons for UI customization  
 
 ---
 
